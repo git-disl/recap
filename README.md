@@ -7,8 +7,11 @@ Fatih Ilhan, Gong Su, Selim Furkan Tekin, Tiansheng Huang, Sihao Hu, and Ling Li
 ## Setup
 
 Python 3.10
+
 Pytorch 2.0.1
+
 Transformers 4.33
+
 https://github.com/microsoft/nni
 
 Please check requirements.txt for the list of other packages.
