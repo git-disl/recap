@@ -5,11 +5,8 @@ Code for CVPR24 Paper - Resource-Efficient Transformer Pruning for Finetuning of
 ## Setup
 
 Python 3.10
-
 Pytorch 2.0.1
-
 Transformers 4.33
-
 https://github.com/microsoft/nni
 
 Please check requirements.txt for the list of other packages.
@@ -29,9 +26,6 @@ CIFAR, TinyImageNet, GLUE datasets are automatically downloaded. You can downloa
 
 ### Example: Finetune BERT-base at CoLA with 17% pruning and 50% masking in 5 iterations:
 ```python main.py --task glue --data cola --arch bert-base-uncased --init_sparse 0.17 --iter_sparse -0.5 -num_pi 1 -num_pr 5```
-
-### General usage for evaluating a finetuned model:
-```python main.py --task <TASK> --data <DATASET> --arch <MODEL> --run_mode evaluate --evaluate_from <MODEL_PATH>```
 
 ### Parameters
 
