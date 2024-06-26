@@ -2,6 +2,8 @@
 
 Code for CVPR24 Paper - Resource-Efficient Transformer Pruning for Finetuning of Large Models
 
+Fatih Ilhan, Gong Su, S. F. Tekin, T. Huang, S. Hu, and Ling Liu, "Resource-Efficient Transformer Pruning for Finetuning of Large Models," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, USA, Jun. 17-21, 2024.
+
 ## Setup
 
 Python 3.10
