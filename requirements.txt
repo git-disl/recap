@@ -2,7 +2,6 @@ accelerate==0.20.3
 datasets==2.12.0
 dill==0.3.6
 huggingface-hub==0.15.1
-keras==2.13.1rc0
 pandas==1.5.3
 Pillow
 tensorboard
